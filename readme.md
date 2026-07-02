@@ -1,6 +1,6 @@
 # ShopEase Assistant
 
-A production-ready AI shopping assistant powered by RAG, agents and LangChain. It answers order/stock/refund/installment questions from real data, answers policy questions using RAG over your own documents, and supports both text and voice.
+A production-ready AI shopping assistant powered by RAG, agents and LangChain. It answers order/stock/refund questions from real data, answers policy questions using RAG over your own documents, and supports both text and voice.
 
 ## How it works
 
